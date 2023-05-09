@@ -7,6 +7,7 @@
 ## Contents
 
 - [Usage](#usage)
+- [Resources](#resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -30,3 +31,9 @@ Use outwith organization
   "extends": ["github>kloud-cnf/renovate-config"]
 }
 ```
+
+---
+
+## Resources
+- [Renovate > Configuration Schema](https://docs.renovatebot.com/configuration-options/)
+- [Renovate > Config Presets](https://docs.renovatebot.com/config-presets/)
